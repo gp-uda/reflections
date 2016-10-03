@@ -9,3 +9,11 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clone : The process by which a repository is cloned either locally or from GitHub
 	Branch : The process by which a copy of the repository is created so that parallel development/work can be done without 
 	         impacting the master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Having a copy of the last known state of the remote stored locally will enable you to
+	work on the up-to-date code and also will allow you to work on it offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	By exchanging files by email.
+	Using Git and GitHub is easier.	
