@@ -7,3 +7,29 @@ What value do you think it offers?
 	Staging area is a temporary area where you can place the file/s ready to be 
 	added to the repository. It will add granularity to the commit process. It will 
 	help commit individual files separately.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	Using Add command the file/s can be staged after the in the staging area and committed when
+	the logical changes are completed.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+	Branches would help in situations in which multi-lingual application is being developed. 
+	It would help in parallel development.
+
+How do the diagrams help you visualize the branch structure?
+	Diagrams help visualize the various commits, various branches and relation to each other.
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+	Merging of two branches together will result in one branch (usually master)	having all the 
+	changes added to both the branches. The diagram shows the branches that merged and the parents
+	of merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Automatic
+		pros : easy
+		con : complex, may lead to errors
+	Manual
+		pros : less errors
+		con : time consuming
